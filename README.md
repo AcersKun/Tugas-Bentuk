@@ -1,6 +1,6 @@
 # Tugas PBO - Inheritance dan Polymorphism
 
-Penghitung luas bangun datar dan ruang berbasis Java yang menerapkan konsep 
+Penghitung luas bangun datar dan ruang berbasis Java yang menerapkan konsep Pemrograman Berbasis Objek
 
 ## Identitas
 - **NIM** : F1D02510058
